@@ -7,6 +7,7 @@ export default function Home() {
        
        <h1>Hello World</h1>
        <h2>this is heading2</h2>
+       <h3>This is heading 3</h3>
       </main>
       <footer className="row-start-3 flex gap-6 flex-wrap items-center justify-center">
        
